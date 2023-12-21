@@ -42,7 +42,7 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 The purpose is to create a model that can predict, based on available data (features), if an applicant will be successful if funded by Alphabet Soup.
 
 
-## Answer all 6 questions in the results section
+## Answer all 6 questions in the results section:
 
 
 ### What variable(s) are the target(s) for your model?
@@ -86,7 +86,7 @@ The purpose is to create a model that can predict, based on available data (feat
 ![Alt text](image-2.png)
 
 ##### Optimization 3
-![Alt text](image-4.png)
+![Alt text](image-8.png)
 
 * I was not able to achieve the target of 75% accuracy. 
 
@@ -96,10 +96,10 @@ The purpose is to create a model that can predict, based on available data (feat
 
 
 ## Summarize the overall results of your model
-
+* I was not able to increase performance of the original model. Accuracy ended up being 0.7252, 0.7241, 0.7236 and 0.7255 respectively. 
 
 ## Describe how you could use a different model to solve the same problem, and explain why you would use that model
-
+* My next step would be to run the KERAS TUNER model on the data to find the optimal settings.
 
 ## Authors
 
