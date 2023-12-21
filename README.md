@@ -39,7 +39,40 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 
 ### Explain the purpose of the analysis
 
+The purpose is to create a model that can predict, based on available data (features), if an applicant will be successful if funded by Alphabet Soup.
+
 ### Answer all 6 questions in the results section
+
+What variable(s) are the target(s) for your model?
+* The variable IS_SUCCESSFUL is the target for my model.
+
+What variable(s) are the features for your model?
+* The feature variables are APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS AND ASK_AMT.
+
+What variable(s) should be removed from the input data because they are neither targets nor features?
+* The variables I removed are EIN and NAME.
+
+How many neurons, layers, and activation functions did you select for your neural network model, and why?
+*
+
+Were you able to achieve the target model performance?
+
+Model 1
+![Alt text](image.png)
+
+Optimization 1
+![Alt text](image-1.png)
+
+Optimization 2
+![Alt text](image-2.png)
+
+Optimization 3
+![Alt text](image-3.png)
+
+*
+
+What steps did you take in your attempts to increase model performance?
+*
 
 ### Summarize the overall results of your model
 
