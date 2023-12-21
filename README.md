@@ -16,10 +16,10 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 
 ## Setup
 
-* 
-* 
-* 
-* 
+* scikit-learn 1.0.2
+* tensorflow 2.11.0
+* pandas 1.0.5
+* python 3.7.7
 
 ## Dependencies
 
@@ -27,7 +27,6 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 * from sklearn.preprocessing import StandardScaler
 * import pandas as pd
 * import tensorflow as tf
-* import pandas as pd
 
 ## Grading
 
