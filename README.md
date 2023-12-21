@@ -71,22 +71,28 @@ The purpose is to create a model that can predict, based on available data (feat
 ##### Optimization 3
 ![Alt text](image-7.png)
 
+* In model 1, I started off with the shown example and then built upon that for the optimization models. I tried to vary the changes to see how the performance would be impacted. Below is how each model performed.
+
 
 ### Were you able to achieve the target model performance?
 
-Model 1![Alt text](image.png)
+##### Model 1
+![Alt text](image.png)
 
-Optimization 1![Alt text](image-1.png)
+##### Optimization 1
+![Alt text](image-1.png)
 
-Optimization 2![Alt text](image-2.png)
+##### Optimization 2
+![Alt text](image-2.png)
 
-Optimization 3![Alt text](image-4.png)
+##### Optimization 3
+![Alt text](image-4.png)
 
-*
+* I was not able to achieve the target of 75% accuracy. 
 
 
 ### What steps did you take in your attempts to increase model performance?
-*
+* Simply put, I made adjustements to the model in the order of my coding. I started adjusting the data to see what the impact would be. Then I moved on to the layers and neurons of the model. Finally, I made adjustments to the epochs.
 
 
 ## Summarize the overall results of your model
