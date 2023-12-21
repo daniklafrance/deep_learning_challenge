@@ -58,7 +58,14 @@ The purpose is to create a model that can predict, based on available data (feat
 
 
 ### How many neurons, layers, and activation functions did you select for your neural network model, and why?
-*
+
+Model 1![Alt text](image-3.png)
+
+Optimization 1![Alt text](image-5.png)
+
+Optimization 2![Alt text](image-6.png)
+
+Optimization 3![Alt text](image-7.png)
 
 
 ### Were you able to achieve the target model performance?
