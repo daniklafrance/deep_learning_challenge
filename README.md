@@ -96,7 +96,7 @@ The purpose is to create a model that can predict, based on available data (feat
 
 
 ## Summarize the overall results of your model
-* I was not able to increase performance of the original model. Accuracy ended up being 0.7252, 0.7241, 0.7236 and 0.7255 respectively. 
+* I was not able to increase performance of the original model. Accuracy ended up being 0.7252, 0.7241, 0.7236 and 0.7233 respectively. 
 
 ## Describe how you could use a different model to solve the same problem, and explain why you would use that model
 * My next step would be to run the KERAS TUNER model on the data to find the optimal settings.
